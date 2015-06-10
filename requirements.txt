@@ -1,0 +1,5 @@
+pytz
+beautifulsoup4
+lxml
+python-instagram
+requests
